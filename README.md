@@ -9,3 +9,8 @@ There are totally 15 trials for each experiment. There is a 15s hint before each
 A new effective EEG feature named differential entropy is proposed to represent the characteristics associated with emotional states.
 
 In the "data" folder, there are train and test dataset containing downsampled, preprocessed and segmented versions of the EEG differential entropy data.
+
+
+The dataset containing extracted differential entropy (DE) features of the EEG signals. These data is well-suited to those who want to quickly test a classification method without propcessing the raw EEG data. The training set contains a total of 84420 data and testing set contains 58128 data. Each piece of data contains 310 values representing the data of 62 electrodes on 5 frequencies.
+
+
