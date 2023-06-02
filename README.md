@@ -15,3 +15,8 @@ In the "data" folder, there are train and test dataset containing downsampled, p
 The dataset containing extracted differential entropy (DE) features of the EEG signals. These data is well-suited to those who want to quickly test a classification method without propcessing the raw EEG data. The training set contains a total of 84420 data and testing set contains 58128 data. Each piece of data contains 310 values representing the data of 62 electrodes on 5 frequencies.
 
 
+SUMMARY
+
+Conducted a project on EEG-based emotion recognition, incorporating differential entropy features. Explored a dataset of 15 Chinese film clips encompassing various emotions. Applied feature scaling techniques to normalize the data. Implemented data augmentation, including Gaussian noise, to enhance training. Trained CNN, random forest, and XGBoost models, achieving an impressive 80% accuracy on the test set. Demonstrated the efficacy of utilizing EEG signals and differential entropy for precise emotion classification. Findings contribute to the field and provide valuable insights for future research in emotion recognition from EEG signals.
+
+
